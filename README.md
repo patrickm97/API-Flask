@@ -4,6 +4,8 @@ The main frameworks and libraries used are **Flask** and **SQLAlchemy**.
 
 The programming language used is __*Python*__.
 
+__*Jinja*__ is used to program specific **HTML** funtions.
+
 ## Usage
 
 ### Sign-up
