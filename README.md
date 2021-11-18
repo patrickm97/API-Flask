@@ -19,7 +19,7 @@ HTTP | Description
 201 | success
 409 | email already used
 
-### Loggin in
+### Log in
 
 Definition
 'POST /login'
